@@ -118,3 +118,9 @@ fi
 
 #custom path variables
 export PATH="/home/niculistana/idea/bin:$PATH"
+export PATH="/home/niculistana/webstorm/bin:$PATH"
+
+
+#aliases
+alias pbcopy='xclip -selection clipboard'
+alias pbpaste='xclip -selection clipboard -o'
