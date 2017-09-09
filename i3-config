@@ -186,3 +186,4 @@ exec /usr/bin/code
 exec --no-startup-id "i3-msg 'workspace 3; append_layout /home/niculistana/.config/i3/workspace-2.json'"
 exec /usr/bin/slack
 exec /usr/bin/thunderbird
+exec /usr/bin/redshift-gtk
